@@ -20,7 +20,7 @@ An "Agentic AI" workflow built with n8n that automates the end-to-end process of
 
 ---
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 - Orchestration: n8n
 
 - Artificial Intelligence: OpenAI (GPT-4.1-mini)
@@ -33,7 +33,7 @@ An "Agentic AI" workflow built with n8n that automates the end-to-end process of
 
 ---
 
-⚙️ How It Works
+# ⚙️ How It Works
 The workflow follows a 4-step modular architecture:
 
 - Data Extraction: A scheduled trigger fetches weekly campaign data (impressions, clicks, etc.) from a centralized Google Sheet.
